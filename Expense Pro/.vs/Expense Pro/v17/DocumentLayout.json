@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\migrations\\20240620171010_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\migrations\\20240620171010_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|f:\\sd 5 all codes\\expensepro\\expense pro\\expense pro\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C24231-3C80-4902-A47F-18A995DCA582}|Expense Pro\\Expense Pro.csproj|solutionrelative:expense pro\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Expense Pro\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Expense Pro\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:46:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Pro\\Views\\Category\\Index.cshtml",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Expense Pro\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:39:41.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Pro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Expense Pro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:39:26.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Expense Pro\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Expense Pro\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:23:43.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240620171010_Initial Create.cs",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Migrations\\20240620171010_Initial Create.cs",
+              "RelativeDocumentMoniker": "Expense Pro\\Migrations\\20240620171010_Initial Create.cs",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Migrations\\20240620171010_Initial Create.cs",
+              "RelativeToolTip": "Expense Pro\\Migrations\\20240620171010_Initial Create.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:10:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense Pro\\appsettings.json",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\appsettings.json",
+              "RelativeToolTip": "Expense Pro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T16:00:28.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Pro\\Program.cs",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Program.cs",
+              "RelativeToolTip": "Expense Pro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:58:11.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Expense Pro\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Expense Pro\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:55:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Expense Pro\\Models\\Transaction.cs",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Models\\Transaction.cs",
+              "RelativeToolTip": "Expense Pro\\Models\\Transaction.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:51:19.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Expense Pro\\Models\\Category.cs",
+              "ToolTip": "F:\\SD 5 all codes\\ExpensePro\\Expense Pro\\Expense Pro\\Models\\Category.cs",
+              "RelativeToolTip": "Expense Pro\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:13:34.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
